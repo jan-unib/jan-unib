@@ -1,0 +1,2 @@
+- 👋 I'm @jan-unib, CTO of [UniB Solutions](https://github.com/UNI-B)
+- 🛠️ I do a little bit of everything
